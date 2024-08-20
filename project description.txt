@@ -1,0 +1,17 @@
+In this project, I delved into a rich dataset to cover insights and sales in pizza Shop.
+
+The Asssignment:
+
+The pizza sales in the pizza shop to find the total revenue, Expensive pizza, Popular size, Top Category, Busiest hour.
+
+Recommendations:
+
+As the busiest hour is 12, then the focus on the supply of pizza to customers without any shortage of mostly selling pizza.
+
+Offering discounts or buy one get one free on slow moving items can boost sales and can increase the sales volume.
+
+Key insights:
+
+overall 21350 pizzas are ordered which makes the 817860.05rs of revenue.
+
+Everyday is able to sell 138 pizzas daily.
